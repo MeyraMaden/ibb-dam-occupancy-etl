@@ -1,0 +1,87 @@
+{
+    "success": true,
+    "result": {
+        "resource_id": "af0b3902-cfd9-4096-85f7-e2c3017e4f21",
+        "total": 6,
+        "records": [
+            {
+                "Tarih": "2024-01-01",
+                "Omerli": "68,4",
+                "Darlik": "55.2",
+                "Elmali": "40.1",
+                "Terkos": "72.9",
+                "Alibey": "61.0",
+                "Buyukcekmece": "58.3",
+                "Sazlidere": "49.7",
+                "Kazandere": "63.2",
+                "Pabucdere": "70.5",
+                "Istrancalar": "66.8"
+            },
+            {
+                "Tarih": "2024-01-02",
+                "Omerli": "68.9",
+                "Darlik": "55.0",
+                "Elmali": "39.8",
+                "Terkos": "73.1",
+                "Alibey": "-",
+                "Buyukcekmece": "58.1",
+                "Sazlidere": "49.5",
+                "Kazandere": "63.0",
+                "Pabucdere": "70.2",
+                "Istrancalar": "66.5"
+            },
+            {
+                "Tarih": "2024-01-02",
+                "Omerli": "68.9",
+                "Darlik": "55.0",
+                "Elmali": "39.8",
+                "Terkos": "73.1",
+                "Alibey": "60.5",
+                "Buyukcekmece": "58.1",
+                "Sazlidere": "49.5",
+                "Kazandere": "63.0",
+                "Pabucdere": "70.2",
+                "Istrancalar": "66.5"
+            },
+            {
+                "Tarih": "03.01.2024",
+                "Omerli": "69.2",
+                "Darlik": "54.7",
+                "Elmali": "39.5",
+                "Terkos": "73.4",
+                "Alibey": "60.2",
+                "Buyukcekmece": "57.9",
+                "Sazlidere": "49.2",
+                "Kazandere": "62.8",
+                "Pabucdere": "70.0",
+                "Istrancalar": "66.2"
+            },
+            {
+                "Tarih": "2024-01-04",
+                "Omerli": "150.0",
+                "Darlik": "54.5",
+                "Elmali": "39.2",
+                "Terkos": "73.6",
+                "Alibey": "59.9",
+                "Buyukcekmece": "57.7",
+                "Sazlidere": "48.9",
+                "Kazandere": "62.5",
+                "Pabucdere": "69.8",
+                "Istrancalar": "65.9"
+            },
+            {
+                "Tarih": null,
+                "Omerli": "70.0",
+                "Darlik": "54.2",
+                "Elmali": "38.9",
+                "Terkos": "73.8",
+                "Alibey": "59.6",
+                "Buyukcekmece": "57.5",
+                "Sazlidere": "48.6",
+                "Kazandere": "62.2",
+                "Pabucdere": "69.5",
+                "Istrancalar": "65.6"
+            }
+        ]
+    }
+}
